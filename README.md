@@ -57,6 +57,7 @@ afroProverbsAfrica/
 ├─ vignettes/ # Tutoriels (Quickstart)
 │ └─ quickstart.Rmd
 │
+├─ Init.R # Initialiser les packages
 ├─ DESCRIPTION # Métadonnées du package
 ├─ NAMESPACE # Fonctions exportées
 ├─ LICENSE # MIT
